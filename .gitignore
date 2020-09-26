@@ -8,6 +8,7 @@
 # testing
 /coverage
 sr/components/Header.js
+sr/components/excers.js
 
 # production
 /build
